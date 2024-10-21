@@ -7,3 +7,5 @@ This is a simple site created using MkDocs.
 - Easy to set up
 - Markdown based
 - Customizable themes
+
+read [about](./about.md)
